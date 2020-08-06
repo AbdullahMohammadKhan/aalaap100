@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aalaap100/static/css/main.b9b6581f.chunk.css",
+    "main.js": "/aalaap100/static/js/main.439d182c.chunk.js",
+    "main.js.map": "/aalaap100/static/js/main.439d182c.chunk.js.map",
+    "runtime-main.js": "/aalaap100/static/js/runtime-main.d455a856.js",
+    "runtime-main.js.map": "/aalaap100/static/js/runtime-main.d455a856.js.map",
+    "static/js/2.0ab0b65c.chunk.js": "/aalaap100/static/js/2.0ab0b65c.chunk.js",
+    "static/js/2.0ab0b65c.chunk.js.map": "/aalaap100/static/js/2.0ab0b65c.chunk.js.map",
+    "index.html": "/aalaap100/index.html",
+    "precache-manifest.5daa4243d681878a2bca77f26ea8e11e.js": "/aalaap100/precache-manifest.5daa4243d681878a2bca77f26ea8e11e.js",
+    "service-worker.js": "/aalaap100/service-worker.js",
+    "static/css/main.b9b6581f.chunk.css.map": "/aalaap100/static/css/main.b9b6581f.chunk.css.map",
+    "static/js/2.0ab0b65c.chunk.js.LICENSE.txt": "/aalaap100/static/js/2.0ab0b65c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d455a856.js",
+    "static/js/2.0ab0b65c.chunk.js",
+    "static/css/main.b9b6581f.chunk.css",
+    "static/js/main.439d182c.chunk.js"
+  ]
+}
